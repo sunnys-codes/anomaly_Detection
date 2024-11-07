@@ -1,9 +1,0 @@
-.env
-__pycache__/
-.ipynb_checkpoints/
-*.pkl
-*.log
-*.csv
-*.tmp
-*.swp
-.DS_Store
